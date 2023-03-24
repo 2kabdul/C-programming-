@@ -1,0 +1,113 @@
+Script started on Sat Mar 18 22:18:39 2023
+[?1034hbash-3.2$ gcc la[Kab2final.x[Kc -o lab2gi[K[Kfinal
+bash-3.2$ /.[K[K./lab2final
+
+---------------------
+MENU
+---------------------
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+Pick a choice: 4
+Enter CustomerID: 6547
+Enter Customer Name: Nameer Johnes
+Enter StoreID: 6637
+Enter Street Address: 6446 W 144th st
+Enter Zip Code: 5578
+---------------------
+MENU
+---------------------
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+
+
+---------------------
+MENU
+---------------------
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+Pick a choice: 2
+
+The number of records: 1
+
+---------------------
+MENU
+---------------------
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+Pick a choice: 1
+
+Customer ID: 6547
+Customer Name: Nameer Johnes
+Store ID: 6637
+Street Address: 6446 W 144th st
+Zip Code: 5578
+
+---------------------
+MENU
+---------------------
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+Pick a choice: 3
+The size of the database is: 150
+
+---------------------
+MENU
+---------------------
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+Pick a choice: 6
+Here are the number of accesses: 1
+
+---------------------
+MENU
+---------------------
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+Pick a choice: 5
+
+---------------------
+MENU
+---------------------
+1. Print all records
+2. Print number of records
+3. Print size of database
+4. Add record
+5. Delete record
+6. Print number of accesses to database
+7. Exit
+Pick a choice: 

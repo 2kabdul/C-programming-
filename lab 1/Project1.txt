@@ -1,0 +1,60 @@
+Script started on Fri Feb 10 23:32:58 2023
+[?1034hbash-3.2$ gcc lab1.c -o lab1
+bash-3.2$ ./lab1 debug
+It is debuggingMenu: 
+1) Add 2 numbers (integers)
+2) Multiply 2 numbers (floats)
+3) Read in string and reverse the string as output 
+4) Enter 2 words and see if there similar
+(5) Exit
+Choose an option: 1
+You picked 1
+First Number: 1
+Second Number: 2
+Numbers were 1 and 2.
+ the sum of the two are: 3
+(debugging): you have 1 and 2
+Menu: 
+1) Add 2 numbers (integers)
+2) Multiply 2 numbers (floats)
+3) Read in string and reverse the string as output 
+4) Enter 2 words and see if there similar
+(5) Exit
+Choose an option: 2
+You picked 2
+First Number: 3
+Second Number: 4
+Numbers were 3.000000 and 4.000000.
+Your product was: 12.000
+(debugging): you have 3.000000 and 4.000000
+Menu: 
+1) Add 2 numbers (integers)
+2) Multiply 2 numbers (floats)
+3) Read in string and reverse the string as output 
+4) Enter 2 words and see if there similar
+(5) Exit
+Choose an option: 3
+You picked 3
+ Enter a string (no whitespace characters): run
+nur
+(debugging): you have run. reverse is nurş
+Menu: 
+1) Add 2 numbers (integers)
+2) Multiply 2 numbers (floats)
+3) Read in string and reverse the string as output 
+4) Enter 2 words and see if there similar
+(5) Exit
+Choose an option: 4
+You picked 4
+Enter your fist string: pit
+Enter your second string: dip
+debugged, It works.
+Menu: 
+1) Add 2 numbers (integers)
+2) Multiply 2 numbers (floats)
+3) Read in string and reverse the string as output 
+4) Enter 2 words and see if there similar
+(5) Exit
+Choose an option: 5
+
+You have exited the menu.bash-3.2$ 
